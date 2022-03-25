@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mvp/src/styles/colors.dart';
-
+/*
 class SwipeList extends StatefulWidget {
   SwipeList({Key? key}) : super(key: key);
 
@@ -44,3 +44,4 @@ class _SwipeListState extends State<SwipeList> {
     );
   }
 }
+*/
