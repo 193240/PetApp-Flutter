@@ -1,6 +1,6 @@
 {
-    "name": "mvp",
-    "short_name": "mvp",
+    "name": "conexion_veterinaria",
+    "short_name": "conexion_veterinaria",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
